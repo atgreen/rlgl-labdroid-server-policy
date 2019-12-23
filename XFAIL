@@ -1,0 +1,12 @@
+# --------------------------------------------------------------------------
+# Known failures.  These haven't been investigated yet.
+
+{ "result": "FAIL", "id": "Verify and Correct File Permissions with RPM" } 2020-01-30
+{ "result": "FAIL", "id": "Ensure All Files Are Owned by a User" } 2020-01-30
+{ "result": "FAIL", "id": "Ensure All World-Writable Directories Are Owned by a System Account" } 2020-01-30
+{ "result": "FAIL", "id": "Ensure All Files Are Owned by a Group" } 2020-01-30
+{ "result": "FAIL", "id": "Set Interactive Session Timeout" } 2020-01-30
+{ "result": "FAIL", "id": "Modify the System Login Banner" } 2020-01-30
+{ "result": "FAIL", "id": "Prevent Login to Accounts With Empty Password" } 2020-01-30
+{ "result": "FAIL", "id": "Configure Multiple DNS Servers in /etc/resolv.conf" } 2020-01-30
+
